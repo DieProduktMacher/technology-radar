@@ -362,7 +362,7 @@ const Factory = function () {
 }
 
 function setDocumentTitle() {
-  document.title = 'Build your own Radar'
+  document.title = 'DPM Technology Radar'
 }
 
 function plotLoading(content) {
